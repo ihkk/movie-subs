@@ -1,3 +1,3 @@
 # Movie subs
 
-Adapted from KSubs
+Movie subtitles shifted from repository [ihkk/KKSubs](https://github.com/ihkk/KKSubs).
